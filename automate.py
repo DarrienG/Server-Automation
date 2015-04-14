@@ -150,7 +150,7 @@ if __name__ == "__main__":
     script_ver = "0.2.7"
     print "\n\n#######################################\n"
     print "Server Automation Script version: " + script_ver
-    print "PRIVATE ALPHA: Use of this by anybody other than Darrien Glasser is prohibited."
+    print "BETA VERSION: Script works, but may have odd quirks."
     print "\n#######################################\n"
     print "Welcome back Darrien!"
 
